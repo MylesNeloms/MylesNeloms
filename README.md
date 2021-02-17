@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MylesNeloms
+- 👀 I’m interested in machine learning, java programing, and software developement.
+- 🌱 I’m currently learning machinelearning with python.
+- 💞️ I’m looking to collaborate on open source opportunities
+- 📫 My email is MylesNeloms142@gmail.com
